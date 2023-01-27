@@ -17,7 +17,7 @@ public class homeWork_2_1 {
             e.printStackTrace();
         }
         for(int i = 0; i < sortArr.length; i++){
-            System.out.print(sortArr[i] + "\n");
+            System.out.print(sortArr[i] + " ");
         }
     }
 

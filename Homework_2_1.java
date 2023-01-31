@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
 public class homeWork_2_1 {
-    public static void main(String args[]) {
+    public static void main(String args[]) { 
         int[] sortArr = {2, 6, 4, 1, 5, 9};
         try {
             bubbleSort(sortArr);
